@@ -13,7 +13,7 @@ Estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas*
   Colégio Estadual Prefeito Joaquim da Silva Mafra (2024-2026)
 - **Certificações Alura**:
   - JavaScript: Explorando a Linguagem
-  - HTML5 e CSS3 parte 1: crie uma página da Web [Em conclusão]
+  - HTML5 e CSS3 parte 1: crie uma página da Web 
 
 ## 🛠 Habilidades Técnicas
 
