@@ -1,4 +1,4 @@
-# 👨💻 Sobre Lucas Ismael
+# 💻 Sobre Lucas Ismael
 
 **Estudante de ADS | Aspirante a Engenheiro de Software | Foco em IA Aplicada e Qualidade de Código**
 
