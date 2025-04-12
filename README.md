@@ -16,14 +16,13 @@ Estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas*
   - HTML5 e CSS3 parte 1: crie uma página da Web [Em conclusão]
 
 ## 🛠 Habilidades Técnicas
-|-------------------------------------------------------------|
+
 | Categoria       | Tecnologias/Habilidades                   |
 |-----------------|-------------------------------------------|
 | Linguagens      | Python, JavaScript, SQL                   |
 | Ferramentas     | Git, VSCode, OpenAI API                   |
 | Metodologias    | Scrum, Kanban                             |
 | Especializações | Debugging, IA Aplicada, Liderança Técnica |
-|-------------------------------------------------------------|
 
 ## 🌟 Objetivos Profissionais
 1. Desenvolver sistemas inteligentes para:
