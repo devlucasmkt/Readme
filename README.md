@@ -49,4 +49,4 @@ Estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas*
 📫 **Vamos conversar sobre tecnologia?**
 - LinkedIn: [Seu Link]
 - Email: devlucasmkt@gmail.com
-- GitHub: [https://github.com/devlucasmkt]
+- GitHub: https://github.com/devlucasmkt
